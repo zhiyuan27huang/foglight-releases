@@ -5,7 +5,7 @@
 
 Foglight reads your PDF, PowerPoint or Word files (or a YouTube video with captions) and builds short quiz levels from them. Every question points back to the exact sentence it came from, so you can always check it against your own material. Cards you get wrong come back for review right before you'd forget them.
 
-- **Free, no account.** You use your own free AI key; your files are not sent to any Foglight server.
+- **Free, no account.** You use your own AI key (free options available); your files are not sent to any Foglight server.
 - **Windows and Mac** desktop app, English and Chinese interface.
 - This repository only hosts the installers and the auto-update feed. The source code is private.
 
@@ -80,7 +80,7 @@ You only install once. Foglight downloads new versions by itself while it is ope
 
 Foglight 读取你的 PDF、PowerPoint、Word 文件（或带字幕的 YouTube 视频），自动生成一关一关的小测验。每道题都能点回原文出处，随时对照自己的材料核对；答错的卡会在快忘的时候再出现。
 
-- **免费，不用注册。** 用你自己的免费 AI key，文件不会发到 Foglight 的服务器。
+- **免费，不用注册。** 用你自己的 AI key（有免费的），文件不会发到 Foglight 的服务器。
 - **Windows / Mac** 桌面版，中英文界面。
 - 这个仓库只放安装包和自动更新文件，源代码不公开。
 
